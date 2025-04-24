@@ -1,0 +1,1 @@
+Juego de adivinanzas que se ejecuta en la terminal y guarda la información del usuario. En este proyecto, se aplica script de Bash que genere un número aleatorio entre 1 y 1000 para que los usuarios lo adivinen. y PostgreSQL guarda la información del usuario.
