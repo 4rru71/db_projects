@@ -1,2 +1,2 @@
-JS_projects
+# DB_projects
 Proyectos de DB realizados durante los cursos de certificación.
